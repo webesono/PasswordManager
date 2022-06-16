@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714616524588",
+    "project_id": "uas3-997ed",
+    "storage_bucket": "uas3-997ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714616524588:android:85d30dac280091c020e689",
+        "android_client_info": {
+          "package_name": "com.uas.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714616524588-12j675l2hs6hnsd7e0uurvesu9cp03vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUq1YAJeOgDxELkqZ04vVyd1C7D7VUmuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714616524588-12j675l2hs6hnsd7e0uurvesu9cp03vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
